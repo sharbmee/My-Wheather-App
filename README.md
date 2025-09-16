@@ -138,12 +138,3 @@ This project is licensed under the **MIT License**.
 Made with ❤️ by **Arbaz Hashmee**
 
 ```
-
----
-
-This README is **GitHub-ready**, explains setup, usage, features, and has a clean project structure.  
-
-If you want, I can **also add a “How to deploy on Netlify or Vercel” section** so your app can go live easily.  
-
-Do you want me to add that?
-```
