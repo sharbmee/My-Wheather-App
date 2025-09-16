@@ -1,6 +1,6 @@
 # 🌤 MyWeather - React Weather App
 
-A **responsive and interactive weather application** built with **React.js**, providing real-time weather data, 5-day forecasts, and user-friendly features like geolocation, city search, and my city city(last search city) settings.
+A **responsive and interactive weather application** built with **React.js**, providing real-time weather data, 5-day forecasts, and user-friendly features like geolocation, city search, and my city (last search city) settings.
 
 ---
 
