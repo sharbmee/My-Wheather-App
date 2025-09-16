@@ -20,7 +20,7 @@ A **responsive and interactive weather application** built with **React.js**, pr
 
 ## Demo
 
-**Live Demo:** *(Add your deployed app link here if hosted on Netlify, Vercel, etc.)*  
+**Live Demo:** *https://my-wheather-app-rosy.vercel.app/*
 
 ---
 
